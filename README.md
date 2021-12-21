@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @overheat0
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on whoever who interested in scripting and automotisation
+- 💞️ I’m looking to collaborate on whoever who interested in scripting and automation
 - 📫 overheat@ya.ru
 
 <!---
